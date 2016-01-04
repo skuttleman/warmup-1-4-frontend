@@ -1,4 +1,4 @@
-var server = 'http://localhost:8000/';
+var server = 'https://warmup-1-4.herokuapp.com/';
 
 function loadPage() {
   $.get(server, function(data) {
